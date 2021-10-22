@@ -4,5 +4,5 @@ var c = 4.6;
 
 // Only change code below this line
 a *= 5;
-b *= b;
+b *= 3;
 c *= 10;
