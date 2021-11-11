@@ -4,4 +4,7 @@ let total = 0;
 for(let i = 0; i < myArr.length; i++) {
     total+= myArr[i];
 }
+
+console.log(total)
+
 // Only change code below this line
